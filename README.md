@@ -21,9 +21,10 @@
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=VuxDucGiang&theme=algolia&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🔄 Contribution: 
+![](https://github.com/VuxDucGiang/VuxDucGiang/blob/output/github-contribution-grid-snake-dark.svg)
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=VuxDucGiang&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
