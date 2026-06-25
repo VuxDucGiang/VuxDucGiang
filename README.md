@@ -16,7 +16,7 @@
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ## Activity Graph: 
-[![VuxDucGiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=20&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![VuxDucGiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=20&height=450)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Contribution: 
 ![](https://github.com/VuxDucGiang/VuxDucGiang/blob/output/github-contribution-grid-snake-dark.svg)
 
