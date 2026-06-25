@@ -13,17 +13,17 @@
         </style>
         <defs>
             <clipPath id='outer_rectangle'>
-                <rect width='800' height='170' rx='4.5'/>
+                <rect width='800' height='170' rx='8'/>
             </clipPath>
             <mask id='mask_out_ring_behind_fire'>
                 <rect width='800' height='170' fill='white'/>
                 <ellipse id='mask-ellipse' cx='400' cy='32' rx='13' ry='18' fill='black'/>
             </mask>
-            <linearGradient id='gradient' gradientTransform='rotate(53)' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#111111' /><stop offset='100%' stop-color='#242424' /></linearGradient>
+            <linearGradient id='gradient' gradientTransform='rotate(48)' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#111111' /><stop offset='100%' stop-color='#454545' stop-opacity='0.47058823529412' /></linearGradient>
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#ffffff' fill='url(#gradient)' rx='4.5' x='0.5' y='0.5' width='799' height='169'/>
+                <rect stroke='#ffffff' fill='url(#gradient)' rx='8' x='0.5' y='0.5' width='799' height='169'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='266.66666666667' y1='21.75' x2='266.66666666667' y2='157.5' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#ffffff' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
