@@ -19,11 +19,11 @@
                 <rect width='800' height='170' fill='white'/>
                 <ellipse id='mask-ellipse' cx='400' cy='32' rx='13' ry='18' fill='black'/>
             </mask>
-            <linearGradient id='gradient' gradientTransform='rotate(48)' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#111111' /><stop offset='100%' stop-color='#454545' stop-opacity='0.47058823529412' /></linearGradient>
+            
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#ffffff' fill='url(#gradient)' rx='8' x='0.5' y='0.5' width='799' height='169'/>
+                <rect stroke='#ffffff' fill='#000000' fill-opacity='0.68627450980392' rx='8' x='0.5' y='0.5' width='799' height='169'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='266.66666666667' y1='21.75' x2='266.66666666667' y2='157.5' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#ffffff' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -33,7 +33,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(133.33333333333, 35.5)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        611
+                        613
                     </text>
                 </g>
 
@@ -62,7 +62,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(400, 132.5)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Jun 22 - Jun 25
+                        Jun 22 - Jun 26
                     </text>
                 </g>
 
@@ -79,7 +79,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(400, 35.5)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        4
+                        5
                     </text>
                 </g>
 
