@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vu+Duc+Giang%20, as+know+as+vuxducgiang;Backend+Developer;Spring+Boot+%26+Next.js+Developer;Always+learning+and+improving!" alt="Typing SVG" />
-  </a>
+  <h3 align="center">Hi, I'm Vu Duc Giang, as known as vuxducgiang.</h3>
   <br/>
   I'm someone who believes that every small step forward matters. I enjoy learning, embracing new challenges, and constantly striving to become a better version of myself.
   <br/>
-  <h4>Find me in <a href="https://yunkhngn.dev/" target="_blank">here</a> or down below.</h4>
-  <a href="https://yunkhngn.dev/" target="_blank">
+  <h4>Find me in <a href="" target="_blank">here</a> or down below.</h4>
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=1f1f1f" alt="Website" />
   </a>
   <a href="https://www.facebook.com/vuxducgiang/" target="_blank">
