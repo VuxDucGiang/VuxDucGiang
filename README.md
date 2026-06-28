@@ -39,11 +39,14 @@ I'm someone who believes that every small step forward matters. I enjoy learning
 
 
 <h2 align="center">Commit Streak && Activity Graph</h2>
-<div align = "center">
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-  
-[![VuxDucGiang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=20&height=450)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" width="800" />
+  </a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=20&height=450" alt="VuxDucGiang's github activity graph" width="800" />
+  </a>
 </div>
 <h2 align="center">Contribution</h2>
 <div align = "center">
