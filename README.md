@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="image/githubcover1.jpg" alt="Github Cover" width="100%" />
+  <br/>
   <h3 align="center">Hi, I'm Vu Duc Giang, as known as vuxducgiang.</h3>
   <br/>
   I'm someone who believes that every small step forward matters. I enjoy learning, embracing new challenges, and constantly striving to become a better version of myself.
