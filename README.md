@@ -40,7 +40,7 @@
   </a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=20&height=450" alt="VuxDucGiang's github activity graph" width="800" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=25&height=450" alt="VuxDucGiang's github activity graph" width="800" />
   </a>
 </div>
 <h2 align="center">Contribution</h2>
