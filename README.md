@@ -36,13 +36,15 @@
 
 
 <h2 align="center">Commit Streak && Activity Graph</h2>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" width="800" />
-  </a>
+ <div align="center">
   <br/>
   <img src="./profile/wave-commits.svg" alt="Wave Commits Graph" width="800" />
   <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" width="800" />
+  </a>
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VuxDucGiang&theme=high-contrast&radius=8&days=25&height=450" alt="VuxDucGiang's github activity graph" width="800" />
   </a>
