@@ -37,9 +37,7 @@
 
 <h2 align="center">Commit Streak && Activity Graph</h2>
  <div align="center">
-  <br/>
-  <img src="./profile/wave-commits.svg" alt="Wave Commits Graph" width="800" />
-  <br/>
+
 
   <a href="https://git.io/streak-stats">
     <img src="./profile/streak.svg" alt="GitHub Streak" width="800" />
@@ -53,7 +51,10 @@
 
 <div align = "center">
   
-![](https://github.com/VuxDucGiang/VuxDucGiang/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![](https://github.com/VuxDucGiang/VuxDucGiang/blob/output/github-contribution-grid-snake-dark.svg) -->
 
+  <br/>
+  <img src="./profile/wave-commits.svg" alt="Wave Commits Graph" width="800" />
+  <br/>
 </div>
 
