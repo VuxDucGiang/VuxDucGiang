@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/githubcover2.png" alt="Github Cover" width="100%" />
+  <img src="image/githubcover3.svg" alt="Github Cover" width="100%" />
   <br/>
   <h3 align="center">Hi, I'm Vu Duc Giang, as known as vuxducgiang.</h3>
   <br/>
