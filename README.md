@@ -35,7 +35,7 @@
 </div>
 
 
-<h2 align="center">Commit Streak && Activity Graph</h2>
+<h2 align="center">Commit Streak && Graph</h2>
  <div align="center">
 
 
@@ -49,7 +49,7 @@
 
 
 </div>
-<h2 align="center">Contribution</h2>
+<h2 align="center">Views</h2>
 
 <div align = "center">
   
