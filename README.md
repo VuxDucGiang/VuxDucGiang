@@ -49,13 +49,4 @@
 
 
 </div>
-<h2 align="center">Views</h2>
-
-<div align = "center">
-  
-<!-- ![](https://github.com/VuxDucGiang/VuxDucGiang/blob/output/github-contribution-grid-snake-dark.svg) -->
-  [![GitHub View History](https://raw.githubusercontent.com/VuxDucGiang/view-history/main/charts/view-history.svg)](https://github.com/VuxDucGiang/view-history)
-
-
-</div>
 
